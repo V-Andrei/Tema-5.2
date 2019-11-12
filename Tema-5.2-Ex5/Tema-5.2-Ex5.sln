@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema-5.2-Ex5", "Tema-5.2-Ex5.csproj", "{7F4AAE21-F6B7-4EE6-8151-FC6B7BDD79B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema-5.2-Ex6", "..\Tema-5.2-Ex6\Tema-5.2-Ex6.csproj", "{AC8F5F2B-CE0C-4A09-B449-BFF10D97EA7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F4AAE21-F6B7-4EE6-8151-FC6B7BDD79B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4AAE21-F6B7-4EE6-8151-FC6B7BDD79B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4AAE21-F6B7-4EE6-8151-FC6B7BDD79B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4AAE21-F6B7-4EE6-8151-FC6B7BDD79B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8F5F2B-CE0C-4A09-B449-BFF10D97EA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8F5F2B-CE0C-4A09-B449-BFF10D97EA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8F5F2B-CE0C-4A09-B449-BFF10D97EA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8F5F2B-CE0C-4A09-B449-BFF10D97EA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD3B47FB-EA29-4FDE-B201-B0AB541C879C}
+	EndGlobalSection
+EndGlobal
